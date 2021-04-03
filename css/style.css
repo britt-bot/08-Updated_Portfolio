@@ -1,0 +1,209 @@
+:root {
+    --black: #212121;
+    --white: #CECED0;
+    --purple: #9575cd;
+    --pink: #dd55d4;
+    --teal: #64ffda;
+    --blue: #1565c0;
+}
+
+::selection {
+    background-color: var(--purple);
+    color: var(--black);
+}
+
+.card-panel {
+    border-radius: 4px;
+    background-color: var(--black);
+    padding-top: 0;
+    padding-bottom: 5px;
+    margin: 10px;
+    box-shadow: -1px 1px 8px #1565c0, 1px -1px 8px #1565c0;
+    /* box-shadow: none; */
+}
+
+.card-content {
+    border-radius: 4px;
+    background-color: var(--black);
+}
+
+.card-title {
+    font-family:"fredoka one";
+    text-decoration: underline;
+    color: var(--white);
+}
+
+.inside {
+    box-shadow: none;
+    padding: 5px;
+    background-color: var(--black);
+}
+
+.project {
+    box-shadow: none;
+    margin: 0;
+}
+
+.bio {
+    /* background-color: rgba(0, 0, 0, 75%); */
+    /* background-image: url("../assets/pastel-placeholder-ver1.png"); */
+}
+
+.about {
+    text-decoration: none;
+}
+
+.connect {
+    margin-left: 10px;
+}
+
+.collab {
+    padding-bottom: 13.5px;
+}
+
+.contact {
+    text-decoration: none;
+}
+
+.portfolio {
+    /* background-image: url("../assets/pastel-pour.png"); */
+}
+
+.port {
+    text-decoration: none;
+}
+
+.btn-large {
+    font-family:"Doppio One";
+    border-radius: 4px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    color: var(--black);
+}
+
+.selfie-img {
+    width: 80%;
+    padding: 3px;
+    border-radius: 20%;
+    box-shadow: -1px 1px 8px #1565c0, 1px -1px 8px #1565c0;
+}
+
+.globnib {
+    width: 100%;
+}
+
+.coderefactor {
+    width: 100%;
+}
+
+.pwgenerate {
+    width: 100%;
+}
+
+.dayplanner {
+    width: 100%;
+}
+
+.catch {
+    font-size: 15px;
+    padding-top: 0;
+}
+
+.creative {
+    /* color: ; */
+    font-family: "Over The Rainbow";
+    font-size: 25px;
+    color: var(--pink);
+    margin: 0;
+    padding-top: 20px;
+}
+
+.developer {
+    /* color: ; */
+    font-family: "Major Mono Display";
+    font-size: 25px;
+    color: var(--teal);
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+
+.fullbio {
+    margin-top: 0;
+    padding: 7px;
+}
+
+body {
+    font-family: "Space Mono";
+    color: var(--white);
+    /* background-color: var(--black); */
+    background-image: url("../assets/pastel-pour.png");
+}
+
+header {
+    color: var(--white);
+}
+
+h1 {
+    color: var(--pink);
+    margin: 10px;
+    font-family:"Freckle Face";
+}
+
+h2 {
+    font-family: "Chelsea Market";
+    font-size: 40px;
+    color: var(--purple);
+    margin-top: 15px;
+}
+
+h3 {
+    margin: 10px;
+}
+
+h4 {
+    margin: 10px;
+    color: var(--teal);
+    font-family: "Barrio";
+}
+
+h5 {
+    color: var(--white);
+    font-family: "Barrio";
+}
+
+h6 {
+    margin: 10px;
+    margin-bottom: 20px;
+    color: var(--white);
+    font-family: "Space Mono";
+}
+
+a {
+    text-decoration: none;
+	color: var(--teal);
+	text-shadow: none;
+}
+
+a:hover {
+    text-decoration: none;
+	color: var(--pink);
+	text-shadow: -1px 1px 8px #1565c0, 1px -1px 8px #1565c0;
+}
+
+
+/* background-image: url('assets/pastel-pour.png'); */
+/* img.placeholder {
+    height: 25%;
+    width: 25%;
+    border-radius: 8px;
+    min-height: 100%;
+    outline: 2px hidden var(--gin);
+    box-shadow: inset 0px 0px 8px var(--gin), 0 0 15px var(--gin);
+    opacity: 75%;
+    justify-content: center;
+}
+
+img.placeholder:hover,
+img.placeholder:hover .card-header {
+  box-shadow: inset 0px 0px 8px var(--heliotrope), 0 0 15px var(--heliotrope);
+} */
