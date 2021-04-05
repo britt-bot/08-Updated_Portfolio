@@ -31,15 +31,12 @@ Open the desired web browser and go to the page url for either the Repo or the D
 ## Usage 
 A portfolio is a gathering of completed and in progress works, that are used to showcase a skilled person's end results and/or work styles.
 
-```md
+
 ![Top of Page](assets/images/topscreenshot.png)
-```
-```md
+
 ![Middle of Page](assets/images/midscreenshot.png)
-```
-```md
+
 ![Bottom of Page](assets/images/botscreenshot.png)
-```
 
 
 ## Credits
