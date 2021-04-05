@@ -12,6 +12,7 @@ Full Stack Web Developer. This is my way of showing what I am capable of and the
 
 Here are the links to the previous Homework-02-Portfolio:
 [Homework 02 - Portfolio Repo](https://github.com/britt-bot/02-Portfolio)
+
 [Homework 02 - Portfolio Deployed](https://britt-bot.github.io/02-Portfolio/)
 
 ## Table of Contents 
@@ -25,6 +26,7 @@ This table of contents is to make it easy for users to find what they need.
 ## Installation
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 [Homework 08 - Updated Portfolio Repo](https://github.com/britt-bot/08-updated_portfolio)
+
 [Homework 08 - Updated Portfolio Deployed](https://britt-bot.github.io/08-updated_portfolio/)
 
 
@@ -32,11 +34,16 @@ Open the desired web browser and go to the page url for either the Repo or the D
 A portfolio is a gathering of completed and in progress works, that are used to showcase a skilled person's end results and/or work styles.
 
 
-![Top of Page](assets/images/topscreenshot.png)
+![Top of Page](https://user-images.githubusercontent.com/77466708/113634919-43ceee00-9635-11eb-9d05-1905f4e8e8b8.png)
+![Middle of Page](https://user-images.githubusercontent.com/77466708/113634926-47627500-9635-11eb-9fb4-4d98140a8d1d.png)
+![Bottom of Page](https://user-images.githubusercontent.com/77466708/113634933-4893a200-9635-11eb-99fe-586f494cc153.png)
+
+
+<!-- ![Top of Page](assets/images/topscreenshot.png)
 
 ![Middle of Page](assets/images/midscreenshot.png)
 
-![Bottom of Page](assets/images/botscreenshot.png)
+![Bottom of Page](assets/images/botscreenshot.png) -->
 
 
 ## Credits
