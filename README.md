@@ -33,7 +33,7 @@ Open the desired web browser and go to the page url for either the Repo or the D
 
 [Homework 08 - Updated Portfolio Repo](https://github.com/britt-bot/08-updated_portfolio)
 
-[Homework 08 - Updated Portfolio Deployed](https://britt-bot.github.io/08-updated_portfolio/)
+[Homework 08 - Updated Portfolio Deployed](https://britt-bot.github.io/08-Updated_Portfolio/)
 
 
 ## Usage 
