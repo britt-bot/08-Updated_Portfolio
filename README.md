@@ -1,4 +1,4 @@
-# 08-updated_portfolio
+# 08-Updated_Portfolio
 ## Description 
 
 This is an updated version of previous project assignment, Homework 02 - Portfolio that was "completed" 02/13/2021. 
