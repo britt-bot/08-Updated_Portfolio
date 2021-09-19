@@ -4,21 +4,21 @@
 
 A portfolio is a gathering of completed and in progress works, that are used to showcase a skilled person's end results and/or work styles. This is part of the evolution of my skills through the progression shown in my portfolio.
 
-This version, Homework 08 - Updated Portfolio, completed 04/03/2021. 
+This version, Updated Portfolio, completed 04/03/2021. 
 
 
 
 
 Here is the link to the previous version of my Portfolio:
 
-[Homework 02 - Portfolio Repo](https://github.com/britt-bot/02-Portfolio)
+[Portfolio Repo](https://github.com/britt-bot/02-Portfolio)
 
 
 Here are the links to the updated versions of my Portfolio:
 
-[Homework 16 - Updated Portfolio Repo](https://github.com/britt-bot/16-Updated_Portfolio)
+[Updated Portfolio Repo](https://github.com/britt-bot/16-Updated_Portfolio)
 
-[Homework 20 - REACT Portfolio Repo]()
+[REACT Portfolio Repo]()
 
 
 ## Table of Contents 
@@ -35,9 +35,9 @@ This table of contents is to make it easy for users to find what they need.
 
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
-[Homework 08 - Updated Portfolio Github Repo](https://github.com/britt-bot/08-updated_portfolio)
+[Updated Portfolio Github Repo](https://github.com/britt-bot/08-updated_portfolio)
 
-[Homework 08 - Updated Portfolio Github Deploy](https://britt-bot.github.io/08-Updated_Portfolio/)
+[Updated Portfolio Github Deploy](https://britt-bot.github.io/08-Updated_Portfolio/)
 
 
 ## Usage 
