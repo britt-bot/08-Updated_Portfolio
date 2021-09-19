@@ -1,21 +1,17 @@
 # 08-Updated_Portfolio
 ## Description 
 
-This is an updated version of previous project assignment, Homework 02 - Portfolio that was "completed" 02/13/2021. 
+This is part of the evolution of my skills through the progression of my portfolio.
 
-This newer version, Homework 08 - Updated Portfolio, was "completed" 04/03/2021. 
+This version, Homework 08 - Updated Portfolio, completed 04/03/2021. 
 
-I will continue to work and improve this page as the course and time continues. I am in love with tinkering with the way things work to make it look certain ways. 
 
-I can't wait to just see what I end up able to do and what new things I figure out to add/adjust on this, so I can keep looking back on it, as I grow into a 
+You can find the previous version, Homework 02 - Portfolio (completed 02/13/2021) here: [Homework 02 - Portfolio Repo](https://github.com/britt-bot/02-Portfolio)
 
-Full Stack Web Developer. This is my way of showing what I am capable of and then some, so I have to make this amazing. It might take a minute, but I have it in me.
+You can find the further updated version, Homework 16 - Portfolio (completed 07/29/2021) here: [Homework 16 - Updated Portfolio Repo](https://github.com/britt-bot/16-Updated_Portfolio)
 
-Here are the links to the previous Homework-02-Portfolio:
+The most recent version, Homework 20 - React Portfolio can be found here: [REACT Portfolio]()
 
-[Homework 02 - Portfolio Repo](https://github.com/britt-bot/02-Portfolio)
-
-[Homework 02 - Portfolio Deployed](https://britt-bot.github.io/02-Portfolio/)
 
 ## Table of Contents 
 
