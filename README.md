@@ -6,9 +6,11 @@ A portfolio is a gathering of completed and in progress works, that are used to 
 This version, Homework 08 - Updated Portfolio, completed 04/03/2021. 
 
 
+
 Here is the link to the previous version of my Portfolio:
 
 [Homework 02 - Portfolio Repo](https://github.com/britt-bot/02-Portfolio)
+
 
 
 Here are the links to the updated versions of my Portfolio:
