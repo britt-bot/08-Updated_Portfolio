@@ -1,24 +1,22 @@
 ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-# 08-Updated_Portfolio
+# Portfolio 2... The Continuation
 ## Description 
 
-A portfolio is a gathering of completed and in progress works, that are used to showcase a skilled person's end results and/or work styles. This is part of the evolution of my skills through the progression shown in my portfolio.
-
-This version, Updated Portfolio, completed 04/03/2021. 
-
-
+A portfolio is a gathering of completed and in progress works, that are used to showcase a skilled person's end results and/or work styles. 
 
 
 Here is the link to the previous version of my Portfolio:
 
-[Portfolio Repo](https://github.com/britt-bot/02-Portfolio)
+[Prework-Portfolio Repo](https://github.com/britt-bot/Prework-Portfolio)
+
+[Portfolio Repo](https://github.com/britt-bot/Portfolio)
 
 
 Here are the links to the updated versions of my Portfolio:
 
-[Updated Portfolio Repo](https://github.com/britt-bot/16-Updated_Portfolio)
+[Portfolio 3 Repo](https://github.com/britt-bot/16-Updated_Portfolio)
 
-[REACT Portfolio Repo]()
+[REACT Portfolio Repo](https://github.com/britt-bot/20-React_Portfolio)
 
 
 ## Table of Contents 
@@ -35,9 +33,9 @@ This table of contents is to make it easy for users to find what they need.
 
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
-[Updated Portfolio Github Repo](https://github.com/britt-bot/08-updated_portfolio)
+[Portfolio 2 Github Repo](https://github.com/britt-bot/08-updated_portfolio)
 
-[Updated Portfolio Github Deploy](https://britt-bot.github.io/08-Updated_Portfolio/)
+[Portfolio 2 Github Deploy](https://britt-bot.github.io/08-Updated_Portfolio/)
 
 
 ## Usage 
