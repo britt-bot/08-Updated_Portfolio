@@ -5,7 +5,7 @@
 A portfolio is a gathering of completed and in progress works, that are used to showcase a skilled person's end results and/or work styles. 
 
 
-Here is the link to the previous version of my Portfolio:
+Here are the links to the previous versions of my Portfolio:
 
 [Prework-Portfolio Repo](https://github.com/britt-bot/Prework-Portfolio)
 
