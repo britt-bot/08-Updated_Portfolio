@@ -14,9 +14,9 @@ Here are the links to the previous versions of my Portfolio:
 
 Here are the links to the updated versions of my Portfolio:
 
-[Portfolio 3 Repo](https://github.com/britt-bot/16-Updated_Portfolio)
+[Portfolio 3 Repo](https://github.com/britt-bot/Portfolio_3)
 
-[REACT Portfolio Repo](https://github.com/britt-bot/20-React_Portfolio)
+[REACT Portfolio Repo](https://github.com/britt-bot/React_Portfolio)
 
 
 ## Table of Contents 
